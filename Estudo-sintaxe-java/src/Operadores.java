@@ -12,7 +12,7 @@ public class Operadores {
         //somando números | subtraindo
 
         byte numeroUm = 1;
-        byte numeroDois = 2;
+        byte numeroDois = 3;
         byte soma;
 
         soma = (byte) (numeroUm + numeroDois);
