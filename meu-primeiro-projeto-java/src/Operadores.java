@@ -38,6 +38,18 @@ public class Operadores {
             var = !var;
             System.out.println(var);
 
+        // maior menor 
+
+        int a = 1;
+        int b = 2;
+        
+        boolean res = a == b;
+
+        System.out.println("Número 1 é igual ao número 2? "+ res);
+        
+        //Estrutura condicional reduzida.
+        System.out.println(a == b ? "São iguais":"Não são iguais");
+
 
     }
     
